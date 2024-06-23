@@ -10,7 +10,7 @@ export ARGO_DOMAIN=''
 #设置哪吒参数(NEZHA_TLS='1'开启tls,设置其他关闭tls)
 export NEZHA_SERVER=''
 export NEZHA_KEY=''
-export NEZHA_PORT=''
+export NEZHA_PORT='443'
 export NEZHA_TLS='1'
 #=======================================
 # 下面设置UUID和路径，CF_IP是优选IP，SUB_NAME为节点名称
